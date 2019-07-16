@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:gravity="center"
+    >
+
+        <ImageView
+            android:layout_width="100dp"
+            android:src="@drawable/profile"
+            android:layout_height="100dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:textStyle="bold"
+            android:text="Esther Nammanda"
+            android:layout_height="wrap_content"
+            android:textSize="15dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:gravity="center_vertical"
+        android:paddingStart="25dp"
+        android:paddingLeft="25dp"
+        android:paddingEnd="25dp"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:text="Track: Android"
+        android:textColor="#070606"
+        android:textSize="19sp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:gravity="center_vertical"
+        android:paddingStart="25dp"
+        android:paddingLeft="25dp"
+        android:paddingEnd="25dp"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:text="Country: Uganda"
+        android:textColor="#070606"
+        android:textSize="19sp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:gravity="center_vertical"
+        android:paddingStart="25dp"
+        android:paddingLeft="25dp"
+        android:paddingEnd="25dp"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:text="Email: nammandaesther@gmail.com"
+        android:textColor="#070606"
+        android:textSize="19sp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:gravity="center_vertical"
+        android:paddingStart="25dp"
+        android:paddingLeft="25dp"
+        android:paddingEnd="25dp"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:text="Phone Number: 256780309485"
+        android:textColor="#070606"
+        android:textSize="19sp" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:gravity="center_vertical"
+        android:paddingStart="25dp"
+        android:paddingLeft="25dp"
+        android:paddingEnd="25dp"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        android:text="Slack Username: esther"
+        android:textColor="#070606"
+        android:textSize="19sp" />
+
+</LinearLayout>
